@@ -1,0 +1,81 @@
+﻿  acmod.c
+c:\users\spark\desktop\apps\cppprojects\speechtocodeeditor\libs\pocketsphinx\src\libpocketsphinx\acmod.c(188): warning C4244: '=' : conversion de 'double' en 'mfcc_t', perte possible de données
+c:\users\spark\desktop\apps\cppprojects\speechtocodeeditor\libs\pocketsphinx\src\libpocketsphinx\acmod.c(193): warning C4244: '=' : conversion de 'double' en 'mfcc_t', perte possible de données
+c:\users\spark\desktop\apps\cppprojects\speechtocodeeditor\libs\pocketsphinx\src\libpocketsphinx\acmod.c(498): warning C4018: '<' : incompatibilité signed/unsigned
+c:\users\spark\desktop\apps\cppprojects\speechtocodeeditor\libs\pocketsphinx\src\libpocketsphinx\acmod.c(509): warning C4018: '<' : incompatibilité signed/unsigned
+c:\users\spark\desktop\apps\cppprojects\speechtocodeeditor\libs\pocketsphinx\src\libpocketsphinx\acmod.c(560): warning C4018: '<' : incompatibilité signed/unsigned
+  allphone_search.c
+c:\users\spark\desktop\apps\cppprojects\speechtocodeeditor\libs\pocketsphinx\src\libpocketsphinx\allphone_search.c(545): warning C4244: '=' : conversion de 'float32' en 'int32', perte possible de données
+c:\users\spark\desktop\apps\cppprojects\speechtocodeeditor\libs\pocketsphinx\src\libpocketsphinx\allphone_search.c(604): warning C4244: '=' : conversion de 'double' en 'float32', perte possible de données
+  bin_mdef.c
+c:\users\spark\desktop\apps\cppprojects\speechtocodeeditor\libs\pocketsphinx\src\libpocketsphinx\bin_mdef.c(148): warning C4244: '=' : conversion de 'int16' en 'uint8', perte possible de données
+c:\users\spark\desktop\apps\cppprojects\speechtocodeeditor\libs\pocketsphinx\src\libpocketsphinx\bin_mdef.c(149): warning C4244: '=' : conversion de 'int16' en 'uint8', perte possible de données
+c:\users\spark\desktop\apps\cppprojects\speechtocodeeditor\libs\pocketsphinx\src\libpocketsphinx\bin_mdef.c(150): warning C4244: '=' : conversion de 'int16' en 'uint8', perte possible de données
+  blkarray_list.c
+  dict.c
+  dict2pid.c
+  fsg_history.c
+  fsg_lextree.c
+  fsg_search.c
+c:\users\spark\desktop\apps\cppprojects\speechtocodeeditor\libs\pocketsphinx\src\libpocketsphinx\fsg_search.c(214): warning C4244: '=' : conversion de 'float32' en 'int32', perte possible de données
+c:\users\spark\desktop\apps\cppprojects\speechtocodeeditor\libs\pocketsphinx\src\libpocketsphinx\fsg_search.c(223): warning C4244: '=' : conversion de 'double' en 'float32', perte possible de données
+  hmm.c
+  kws_detections.c
+  kws_search.c
+  mdef.c
+  ms_gauden.c
+  ms_mgau.c
+c:\users\spark\desktop\apps\cppprojects\speechtocodeeditor\libs\pocketsphinx\src\libpocketsphinx\ms_mgau.c(133): warning C4018: '>' : incompatibilité signed/unsigned
+c:\users\spark\desktop\apps\cppprojects\speechtocodeeditor\libs\pocketsphinx\src\libpocketsphinx\ms_mgau.c(136): warning C4018: '<' : incompatibilité signed/unsigned
+c:\users\spark\desktop\apps\cppprojects\speechtocodeeditor\libs\pocketsphinx\src\libpocketsphinx\ms_mgau.c(216): warning C4018: '<' : incompatibilité signed/unsigned
+c:\users\spark\desktop\apps\cppprojects\speechtocodeeditor\libs\pocketsphinx\src\libpocketsphinx\ms_mgau.c(224): warning C4018: '<' : incompatibilité signed/unsigned
+  ms_senone.c
+c:\users\spark\desktop\apps\cppprojects\speechtocodeeditor\libs\pocketsphinx\src\libpocketsphinx\ms_senone.c(118): warning C4018: '<' : incompatibilité signed/unsigned
+c:\users\spark\desktop\apps\cppprojects\speechtocodeeditor\libs\pocketsphinx\src\libpocketsphinx\ms_senone.c(224): warning C4018: '<' : incompatibilité signed/unsigned
+c:\users\spark\desktop\apps\cppprojects\speechtocodeeditor\libs\pocketsphinx\src\libpocketsphinx\ms_senone.c(225): warning C4018: '<' : incompatibilité signed/unsigned
+c:\users\spark\desktop\apps\cppprojects\speechtocodeeditor\libs\pocketsphinx\src\libpocketsphinx\ms_senone.c(240): warning C4018: '<' : incompatibilité signed/unsigned
+c:\users\spark\desktop\apps\cppprojects\speechtocodeeditor\libs\pocketsphinx\src\libpocketsphinx\ms_senone.c(314): warning C4018: '<' : incompatibilité signed/unsigned
+c:\users\spark\desktop\apps\cppprojects\speechtocodeeditor\libs\pocketsphinx\src\libpocketsphinx\ms_senone.c(325): warning C4018: '<' : incompatibilité signed/unsigned
+c:\users\spark\desktop\apps\cppprojects\speechtocodeeditor\libs\pocketsphinx\src\libpocketsphinx\ms_senone.c(376): warning C4018: '<' : incompatibilité signed/unsigned
+  ngram_search.c
+c:\users\spark\desktop\apps\cppprojects\speechtocodeeditor\libs\pocketsphinx\src\libpocketsphinx\ngram_search.c(93): warning C4090: 'fonction' : qualificateurs 'const' différents
+c:\users\spark\desktop\apps\cppprojects\speechtocodeeditor\libs\pocketsphinx\src\libpocketsphinx\ngram_search.c(136): warning C4244: '=' : conversion de 'double' en 'float32', perte possible de données
+c:\users\spark\desktop\apps\cppprojects\speechtocodeeditor\libs\pocketsphinx\src\libpocketsphinx\ngram_search.c(724): warning C4244: '=' : conversion de 'float32' en 'int32', perte possible de données
+c:\users\spark\desktop\apps\cppprojects\speechtocodeeditor\libs\pocketsphinx\src\libpocketsphinx\ngram_search.c(1044): warning C4244: 'fonction' : conversion de 'double' en 'float32', perte possible de données
+c:\users\spark\desktop\apps\cppprojects\speechtocodeeditor\libs\pocketsphinx\src\libpocketsphinx\ngram_search.c(1189): warning C4244: '=' : conversion de 'float32' en 'int32', perte possible de données
+c:\users\spark\desktop\apps\cppprojects\speechtocodeeditor\libs\pocketsphinx\src\libpocketsphinx\ngram_search.c(1245): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+  ngram_search_fwdflat.c
+c:\users\spark\desktop\apps\cppprojects\speechtocodeeditor\libs\pocketsphinx\src\libpocketsphinx\ngram_search_fwdflat.c(709): warning C4244: '+=' : conversion de 'float32' en 'int32', perte possible de données
+  ngram_search_fwdtree.c
+  phone_loop_search.c
+c:\users\spark\desktop\apps\cppprojects\speechtocodeeditor\libs\pocketsphinx\src\libpocketsphinx\phone_loop_search.c(230): warning C4244: '=' : conversion de 'float64' en 'int32', perte possible de données
+  Génération de code en cours...
+  Compilation en cours...
+  pocketsphinx.c
+c:\users\spark\desktop\apps\cppprojects\speechtocodeeditor\libs\pocketsphinx\src\libpocketsphinx\pocketsphinx.c(321): warning C4244: '=' : conversion de 'float32' en 'int32', perte possible de données
+c:\users\spark\desktop\apps\cppprojects\speechtocodeeditor\libs\pocketsphinx\src\libpocketsphinx\pocketsphinx.c(341): warning C4244: 'fonction' : conversion de 'int32' en 'float32', perte possible de données
+  ps_lattice.c
+c:\users\spark\desktop\apps\cppprojects\speechtocodeeditor\libs\pocketsphinx\src\libpocketsphinx\ps_lattice.c(452): warning C4244: 'initialisation' : conversion de 'float64' en 'float32', perte possible de données
+c:\users\spark\desktop\apps\cppprojects\speechtocodeeditor\libs\pocketsphinx\src\libpocketsphinx\ps_lattice.c(1248): warning C4244: '+=' : conversion de 'float32' en 'int32', perte possible de données
+c:\users\spark\desktop\apps\cppprojects\speechtocodeeditor\libs\pocketsphinx\src\libpocketsphinx\ps_lattice.c(1291): warning C4244: '+=' : conversion de 'float32' en 'int32', perte possible de données
+c:\users\spark\desktop\apps\cppprojects\speechtocodeeditor\libs\pocketsphinx\src\libpocketsphinx\ps_lattice.c(1325): warning C4244: '+=' : conversion de 'float32' en 'int32', perte possible de données
+c:\users\spark\desktop\apps\cppprojects\speechtocodeeditor\libs\pocketsphinx\src\libpocketsphinx\ps_lattice.c(1328): warning C4244: '+=' : conversion de 'float32' en 'int32', perte possible de données
+c:\users\spark\desktop\apps\cppprojects\speechtocodeeditor\libs\pocketsphinx\src\libpocketsphinx\ps_lattice.c(1378): warning C4244: '+=' : conversion de 'float32' en 'int32', perte possible de données
+c:\users\spark\desktop\apps\cppprojects\speechtocodeeditor\libs\pocketsphinx\src\libpocketsphinx\ps_lattice.c(1400): warning C4244: '=' : conversion de 'float32' en 'int32', perte possible de données
+c:\users\spark\desktop\apps\cppprojects\speechtocodeeditor\libs\pocketsphinx\src\libpocketsphinx\ps_lattice.c(1437): warning C4244: '+=' : conversion de 'float32' en 'int32', perte possible de données
+c:\users\spark\desktop\apps\cppprojects\speechtocodeeditor\libs\pocketsphinx\src\libpocketsphinx\ps_lattice.c(1507): warning C4244: '=' : conversion de 'float32' en 'int32', perte possible de données
+c:\users\spark\desktop\apps\cppprojects\speechtocodeeditor\libs\pocketsphinx\src\libpocketsphinx\ps_lattice.c(1514): warning C4244: 'fonction' : conversion de 'float32' en 'int', perte possible de données
+c:\users\spark\desktop\apps\cppprojects\speechtocodeeditor\libs\pocketsphinx\src\libpocketsphinx\ps_lattice.c(1597): warning C4244: '+=' : conversion de 'float32' en 'int32', perte possible de données
+c:\users\spark\desktop\apps\cppprojects\speechtocodeeditor\libs\pocketsphinx\src\libpocketsphinx\ps_lattice.c(1682): warning C4244: '+=' : conversion de 'float32' en 'int32', perte possible de données
+c:\users\spark\desktop\apps\cppprojects\speechtocodeeditor\libs\pocketsphinx\src\libpocketsphinx\ps_lattice.c(1688): warning C4244: '+=' : conversion de 'float32' en 'int32', perte possible de données
+c:\users\spark\desktop\apps\cppprojects\speechtocodeeditor\libs\pocketsphinx\src\libpocketsphinx\ps_lattice.c(1759): warning C4244: '=' : conversion de 'float32' en 'int32', perte possible de données
+  ps_mllr.c
+  ptm_mgau.c
+c:\users\spark\desktop\apps\cppprojects\speechtocodeeditor\libs\pocketsphinx\src\libpocketsphinx\ptm_mgau.c(841): warning C4244: '=' : conversion de 'int16' en 'uint8', perte possible de données
+  s2_semi_mgau.c
+  tmat.c
+  vector.c
+c:\users\spark\desktop\apps\cppprojects\speechtocodeeditor\libs\pocketsphinx\src\libpocketsphinx\vector.c(102): warning C4244: '*=' : conversion de 'float64' en 'float32', perte possible de données
+  Génération de code en cours...
+     Création de la bibliothèque ..\..\bin\Release\Win32/pocketsphinx.lib et de l'objet ..\..\bin\Release\Win32/pocketsphinx.exp
+  pocketsphinx.vcxproj -> C:\Users\Spark\Desktop\apps\cppprojects\SpeechToCodeEditor\libs\pocketsphinx\\bin\Release\Win32\pocketsphinx.dll

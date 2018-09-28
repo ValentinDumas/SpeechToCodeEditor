@@ -1,0 +1,1 @@
+bin\Release\Win32\pocketsphinx_continuous.exe -inmic yes -hmm model\en-us\en-us -lm model\en-us\en-us.lm.bin -dict model\en-us\cmudict-en-us.dict

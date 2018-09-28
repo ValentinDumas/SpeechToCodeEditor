@@ -1,0 +1,86 @@
+﻿  strfuncs.c
+  slapack_lite.c
+c:\users\spark\desktop\apps\cppprojects\speechtocodeeditor\libs\sphinxbase\src\libsphinxbase\util\slapack_lite.c(1041): warning C4244: '=' : conversion de 'doublereal' en 'real', perte possible de données
+c:\users\spark\desktop\apps\cppprojects\speechtocodeeditor\libs\sphinxbase\src\libsphinxbase\util\slapack_lite.c(1046): warning C4244: '=' : conversion de 'double' en 'real', perte possible de données
+c:\users\spark\desktop\apps\cppprojects\speechtocodeeditor\libs\sphinxbase\src\libsphinxbase\util\slapack_lite.c(1074): warning C4244: '=' : conversion de 'doublereal' en 'real', perte possible de données
+c:\users\spark\desktop\apps\cppprojects\speechtocodeeditor\libs\sphinxbase\src\libsphinxbase\util\slapack_lite.c(1079): warning C4244: '=' : conversion de 'double' en 'real', perte possible de données
+  slamch.c
+  sbthread.c
+  profile.c
+  priority_queue.c
+  pio.c
+  mmio.c
+  matrix.c
+c:\users\spark\desktop\apps\cppprojects\speechtocodeeditor\libs\sphinxbase\src\libsphinxbase\util\matrix.c(71): warning C4244: '*=' : conversion de 'float64' en 'float32', perte possible de données
+  logmath.c
+  listelem_alloc.c
+  heap.c
+  hash_table.c
+  glist.c
+  genrand.c
+  filename.c
+  f2c_lite.c
+  err.c
+  dtoa.c
+  cmd_ln.c
+c:\users\spark\desktop\apps\cppprojects\speechtocodeeditor\libs\sphinxbase\src\libsphinxbase\util\cmd_ln.c(151): warning C4090: 'fonction' : qualificateurs 'const' différents
+c:\users\spark\desktop\apps\cppprojects\speechtocodeeditor\libs\sphinxbase\src\libsphinxbase\util\cmd_ln.c(332): warning C4090: 'fonction' : qualificateurs 'const' différents
+  Génération de code en cours...
+  Compilation en cours...
+  ckd_alloc.c
+  case.c
+  blas_lite.c
+  bitvec.c
+  bitarr.c
+  bio.c
+  ngram_model_trie.c
+  ngram_model_set.c
+  ngram_model.c
+c:\users\spark\desktop\apps\cppprojects\speechtocodeeditor\libs\sphinxbase\src\libsphinxbase\lm\ngram_model.c(980): warning C4244: '=' : conversion de 'double' en 'float32', perte possible de données
+  lm_trie_quant.c
+  lm_trie.c
+c:\users\spark\desktop\apps\cppprojects\speechtocodeeditor\libs\sphinxbase\src\libsphinxbase\lm\lm_trie.c(212): warning C4018: '<' : incompatibilité signed/unsigned
+c:\users\spark\desktop\apps\cppprojects\speechtocodeeditor\libs\sphinxbase\src\libsphinxbase\lm\lm_trie.c(294): warning C4018: '<' : incompatibilité signed/unsigned
+c:\users\spark\desktop\apps\cppprojects\speechtocodeeditor\libs\sphinxbase\src\libsphinxbase\lm\lm_trie.c(299): warning C4018: '<' : incompatibilité signed/unsigned
+  ngrams_raw.c
+c:\users\spark\desktop\apps\cppprojects\speechtocodeeditor\libs\sphinxbase\src\libsphinxbase\lm\ngrams_raw.c(57): warning C4018: '<' : incompatibilité signed/unsigned
+c:\users\spark\desktop\apps\cppprojects\speechtocodeeditor\libs\sphinxbase\src\libsphinxbase\lm\ngrams_raw.c(99): warning C4244: '=' : conversion de 'double' en 'float32', perte possible de données
+c:\users\spark\desktop\apps\cppprojects\speechtocodeeditor\libs\sphinxbase\src\libsphinxbase\lm\ngrams_raw.c(110): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+c:\users\spark\desktop\apps\cppprojects\speechtocodeeditor\libs\sphinxbase\src\libsphinxbase\lm\ngrams_raw.c(124): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+  jsgf_scanner.c
+jsgf_scanner.c(922): warning C4018: '<' : incompatibilité signed/unsigned
+_jsgf_scanner.l(84): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+jsgf_scanner.c(1819): warning C4018: '<' : incompatibilité signed/unsigned
+  jsgf_parser.c
+  jsgf.c
+c:\users\spark\desktop\apps\cppprojects\speechtocodeeditor\libs\sphinxbase\src\libsphinxbase\lm\jsgf.c(945): warning C4090: 'fonction' : qualificateurs 'const' différents
+  fsg_model.c
+c:\users\spark\desktop\apps\cppprojects\speechtocodeeditor\libs\sphinxbase\src\libsphinxbase\lm\fsg_model.c(663): warning C4244: '=' : conversion de 'double' en 'float32', perte possible de données
+c:\users\spark\desktop\apps\cppprojects\speechtocodeeditor\libs\sphinxbase\src\libsphinxbase\lm\fsg_model.c(866): warning C4244: 'fonction' : conversion de 'float32' en 'int', perte possible de données
+  yin.c
+  fixlog.c
+  fe_warp_piecewise_linear.c
+  fe_warp_inverse_linear.c
+  Génération de code en cours...
+  Compilation en cours...
+  fe_warp.c
+  fe_warp_affine.c
+  fe_sigproc.c
+  fe_prespch_buf.c
+  fe_noise.c
+  fe_interface.c
+c:\users\spark\desktop\apps\cppprojects\speechtocodeeditor\libs\sphinxbase\src\libsphinxbase\fe\fe_interface.c(473): warning C4267: '+=' : conversion de 'size_t' en 'int16', perte possible de données
+  lda.c
+  feat.c
+c:\users\spark\desktop\apps\cppprojects\speechtocodeeditor\libs\sphinxbase\src\libsphinxbase\feat\feat.c(370): warning C4018: '>=' : incompatibilité signed/unsigned
+c:\users\spark\desktop\apps\cppprojects\speechtocodeeditor\libs\sphinxbase\src\libsphinxbase\feat\feat.c(404): warning C4018: '>=' : incompatibilité signed/unsigned
+c:\users\spark\desktop\apps\cppprojects\speechtocodeeditor\libs\sphinxbase\src\libsphinxbase\feat\feat.c(820): warning C4018: '<' : incompatibilité signed/unsigned
+c:\users\spark\desktop\apps\cppprojects\speechtocodeeditor\libs\sphinxbase\src\libsphinxbase\feat\feat.c(900): warning C4018: '<' : incompatibilité signed/unsigned
+c:\users\spark\desktop\apps\cppprojects\speechtocodeeditor\libs\sphinxbase\src\libsphinxbase\feat\feat.c(903): warning C4018: '<' : incompatibilité signed/unsigned
+  cmn_prior.c
+  cmn.c
+  agc.c
+  ad_win32.c
+  Génération de code en cours...
+     Création de la bibliothèque ../../bin/Debug/Win32/sphinxbase.lib et de l'objet ../../bin/Debug/Win32/sphinxbase.exp
+  sphinxbase.vcxproj -> C:\Users\Spark\Desktop\apps\cppprojects\SpeechToCodeEditor\libs\sphinxbase\\bin\Debug\Win32\sphinxbase.dll

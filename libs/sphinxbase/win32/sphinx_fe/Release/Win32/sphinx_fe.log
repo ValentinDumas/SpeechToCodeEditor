@@ -1,0 +1,3 @@
+﻿  sphinx_fe.c
+c:\users\spark\desktop\apps\cppprojects\speechtocodeeditor\libs\sphinxbase\src\sphinx_fe\sphinx_fe.c(371): warning C4018: '<' : incompatibilité signed/unsigned
+  sphinx_fe.vcxproj -> C:\Users\Spark\Desktop\apps\cppprojects\SpeechToCodeEditor\libs\sphinxbase\\bin\Release\Win32\sphinx_fe.exe
